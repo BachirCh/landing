@@ -1,0 +1,29 @@
+.footer{
+  background-color: white;
+  border: 1px solid rgba(0,0,0,0.2);
+  margin-top: 16px;
+}
+
+.footer li {
+  /*display: inline;
+*/  font-size: 36px;
+list-style: none;
+}
+
+.footer ul{
+  display: flex;
+  justify-content: space-around;
+/*    text-align: center;*/
+}
+
+#fb:hover{
+color: blue;
+}
+
+#git:hover{
+color: grey;
+}
+
+.sn:hover {
+  color: rgb(255, 69, 101);
+}

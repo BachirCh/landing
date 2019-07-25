@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+}
+
+.avatar {
+margin-left: 10px;
+width: 32px;
+height: 32px;
+object-fit: cover;
+border-radius: 50%;
+border: 1px solid white;
+
+}
+
+.header p{
+  margin-right: 10px;
+}

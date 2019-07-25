@@ -1,0 +1,26 @@
+.hiw{
+  margin-top: 16px;
+  margin-bottom: 160px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.card{
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  background-color: white;
+  text-align: center;
+}
+
+.card img{
+  object-fit: cover;
+  width: 240px;
+  height: 120px;
+}
+
+.card ul {
+  list-style: none;
+  padding: 0;
+}
+
+
